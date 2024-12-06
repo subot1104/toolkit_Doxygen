@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author Jose Hipolito
+ * @date 2024-12-05
+ * @brief driver for employee class
+ * 
+ * driver for the employee classes
+ */
+
 
 #include <iostream>
 #include "Employee.h"
@@ -6,6 +15,16 @@
 
 using namespace std;
 
+
+/**
+ * prints data about employee
+ *
+ * @param Employee & e employee
+ * @pre 
+ * @return void 
+ * @post prints data about employee
+ * 
+ */
 void runEmployeeTests(Employee & e);
 
 int main() {

@@ -1,1 +1,1 @@
-This project is being used to practice using makefile.
+This project is being used to practice using doxygen.

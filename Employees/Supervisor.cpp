@@ -1,3 +1,12 @@
+/**
+ * @file Supervisor.cpp
+ * @author Jose Hipolito
+ * @date 2024-12-05
+ * @brief contians method definitions for supervisor subclass
+ * 
+ * 
+ */
+
 #include "Supervisor.h"
 #include <iostream>
 

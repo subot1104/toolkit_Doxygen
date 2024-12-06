@@ -1,3 +1,12 @@
+/**
+ * @file Officer.cpp
+ * @author Jose Hipolito
+ * @date 2024-12-05
+ * @brief officer methods
+ * 
+ * contains method defitinitons for Officer subclass
+ */
+
 #include "Officer.h"
 #include <iostream>
 

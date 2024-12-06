@@ -1,3 +1,12 @@
+/**
+ * @file Employee.cpp
+ * @author Jose Hipolito
+ * @date 2024-12-05
+ * @brief employee methods
+ * 
+ * contians method defintions for employee class
+ */
+
 #include "Employee.h"
 #include <iostream>
 
